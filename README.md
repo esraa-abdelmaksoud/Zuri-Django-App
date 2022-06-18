@@ -2,6 +2,7 @@
 This repository is a part of Zuri's Django blog assignment.
 
 **Assignment details:**
+
 Create a new GitHub repository with a README.md, and Python .gitignore file.
 
 Clone it to your machine/computer, which will create a new folder on your computer with your repository’s content.
